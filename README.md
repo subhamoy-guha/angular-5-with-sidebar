@@ -1,6 +1,6 @@
-# Ecommerce
+# Angular 5
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4. First update npm by npm update
 
 ## Development server
 
